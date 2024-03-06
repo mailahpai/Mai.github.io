@@ -1,2 +1,2 @@
-# mailahpai.github.io
+[theme: jekyll-theme-dinky]
 IT
