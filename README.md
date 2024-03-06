@@ -1,6 +1,6 @@
 <img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
 
-# _Robert P Batzinger_
+# _Lu Lu Mai Lahpai_
 > _Praeceptor Emeritus_<br />
 > Payap University, Department of Computer Science<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
