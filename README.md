@@ -1,4 +1,4 @@
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+<img src="file:///D:/2022%20photo/20210812_121049.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Lu Lu Mai Lahpai_
 > _Praeceptor Emeritus_<br />
