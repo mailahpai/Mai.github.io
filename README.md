@@ -1,4 +1,4 @@
-![Profile Picture](https://github.com/mailahpai/Photo/raw/main/IMG_6825.JPG)" align="right" width="30%"/>
+![Profile Picture](https://github.com/mailahpai/Photo/raw/main/IMG_6825.JPG)
 
 # _Lu Lu Mai Lahpai_
 
