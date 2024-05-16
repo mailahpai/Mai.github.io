@@ -1,33 +1,26 @@
 <img src="file:///D:/2022%20photo/20210812_121049.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Lu Lu Mai Lahpai_
-> _Praeceptor Emeritus_<br />
-> Payap University, Department of Computer Science<br />
+
+> Student<br />
+> Payap University, Department of English Communication<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, and Web Community Development
+
+> English Communication student at Payap University with a strong foundation in effective communication, public speaking, and cross-cultural understanding. Experienced in content creation, editorial work, and community engagement. Passionate about leveraging communication skills to foster collaboration and drive positive change.
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
-
+* Zoology - 2nd Year, Myitkyina University
+* EC English Communication - Final Payap University
+  
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+* News Presenter / Stranger News Agencies (RFA, Kachinnews) - 2007    
+* Editor - Voice of Asia (VoA), BNI - 2010 - 2017
+* Sunday School Teacher - Grace Church Chiangmai - 2007 - 2011, 2016 - 2017 
+* Monitor at Learning Center, Kindergarten Teacher - King’s Academy Chiangmai (School of Tomorrow)
+* Monitor and Supervisor, Teaching Basic Arts and Music - The Seed Christian (School of Tomorrow) - 2017 - 2021
+
+
 
 # Interests
 * Applied machine learning, data science, modeling and forecasting to assist decision making
