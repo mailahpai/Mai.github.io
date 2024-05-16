@@ -1,4 +1,4 @@
-<img src="file:///D:/2022%20photo/20210812_121049.jpg" alt="RPB Photo" align="right" width="30%"/>
+![Profile Picture](https://github.com/mailahpai/Photo/raw/main/IMG_6825.JPG)
 
 # _Lu Lu Mai Lahpai_
 
